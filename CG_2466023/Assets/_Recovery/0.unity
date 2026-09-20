@@ -259,7 +259,7 @@ GameObject:
   - component: {fileID: 828863431}
   - component: {fileID: 828863434}
   m_Layer: 0
-  m_Name: S03_CustomPolygonMesh_Pentagon
+  m_Name: S03_CustomPolygonMesh_Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
