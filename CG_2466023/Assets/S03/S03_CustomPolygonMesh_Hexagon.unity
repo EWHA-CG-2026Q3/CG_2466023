@@ -145,7 +145,7 @@ Light:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 792431444}
   m_Enabled: 1
-  serializedVersion: 12
+  serializedVersion: 13
   m_Type: 1
   m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
   m_Intensity: 1
@@ -197,7 +197,7 @@ Light:
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ForceVisible: 0
-  m_ShadowRadius: 0
+  m_ShapeRadius: 0
   m_ShadowAngle: 0
   m_LightUnit: 1
   m_LuxAtDistance: 1
@@ -259,7 +259,7 @@ GameObject:
   - component: {fileID: 828863431}
   - component: {fileID: 828863434}
   m_Layer: 0
-  m_Name: S03_CustomPolygonMesh_Petagon
+  m_Name: S03_CustomPolygonMesh_Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -346,9 +346,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 828863429}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e8fc6ec23a8452d4da093afe4efecd14, type: 3}
+  m_Script: {fileID: 11500000, guid: 693ae87d9179641ddbf34784a8082158, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::S03_CustomPolygonMesh_Hexagon
+  m_EditorClassIdentifier: Assembly-CSharp::S03_CustomPolygonMesh
 --- !u!1 &1483942397
 GameObject:
   m_ObjectHideFlags: 0
