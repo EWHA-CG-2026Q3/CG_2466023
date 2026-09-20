@@ -21,7 +21,10 @@ public class S03_CustomPolygonMesh_Pentagon : MonoBehaviour
         // TODO 2: 삼각형 인덱스 정의
         int[] triangles = new int[]
         {
-
+            0, 1, 2, // 첫 번째 삼각형
+            0, 2, 3, // 두 번째 삼각형
+            0, 3, 4, // 세 번째 삼각형
+            0, 4, 5, // 네 번째 삼각형
         };
 
         Mesh mesh = new Mesh();
