@@ -52,7 +52,10 @@
     <Compile Include="Assets\S04\S04_Diamond.cs" />
     <Compile Include="Assets\TutorialInfo\Readme.cs" />
     <Compile Include="Assets\S03_Abs\S03_CustomPolygonMesh_Square.cs" />
+    <Compile Include="Assets\S06\S06_ImmediateModeTriangle_Finish.cs" />
+    <Compile Include="Assets\S05\S05_MyMeshRenderer.cs" />
     <Compile Include="Assets\S03\S03_CustomPolygonMesh_Hexagon.cs" />
+    <Compile Include="Assets\S06\S06_SoftwareRasterizer_Finish.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TutorialInfo\StyleSheets\ReadmeEditor.uss" />
