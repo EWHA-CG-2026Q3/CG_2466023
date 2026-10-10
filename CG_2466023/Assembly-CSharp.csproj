@@ -52,10 +52,16 @@
     <Compile Include="Assets\S07\S07_DepthTest1_Finish.cs" />
     <Compile Include="Assets\S04\S04_Diamond.cs" />
     <Compile Include="Assets\TutorialInfo\Readme.cs" />
+    <Compile Include="Assets\S08\S08_BuiltinCompare.cs" />
     <Compile Include="Assets\S03_Abs\S03_CustomPolygonMesh_Square.cs" />
     <Compile Include="Assets\S06\S06_ImmediateModeTriangle_Finish.cs" />
     <Compile Include="Assets\S05\S05_MyMeshRenderer.cs" />
+    <Compile Include="Assets\S08\DiamondMesh.cs" />
+    <Compile Include="Assets\S09_HomogeneousCoordinate\S09_TRS_Raw_Finish.cs" />
+    <Compile Include="Assets\S08\S08_DirectTransform.cs" />
+    <Compile Include="Assets\S09_HomogeneousCoordinate\S09_MatrixLimits_Finish.cs" />
     <Compile Include="Assets\S03\S03_CustomPolygonMesh_Hexagon.cs" />
+    <Compile Include="Assets\S09_HomogeneousCoordinate\S09_RotationX.cs" />
     <Compile Include="Assets\S06\S06_SoftwareRasterizer_Finish.cs" />
     <Compile Include="Assets\S07\S07_Clipping.cs" />
     <Compile Include="Assets\S07\S07_DepthTest_DepthVisualizer.cs" />
