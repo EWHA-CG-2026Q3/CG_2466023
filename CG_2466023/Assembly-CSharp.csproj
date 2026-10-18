@@ -54,12 +54,14 @@
     <Compile Include="Assets\S10\S10_Matrix4x4_Finish.cs" />
     <Compile Include="Assets\S10\S10_DiamondChain_Finish.cs" />
     <Compile Include="Assets\S04\S04_Diamond.cs" />
+    <Compile Include="Assets\S11\PyramidMesh.cs" />
     <Compile Include="Assets\TutorialInfo\Readme.cs" />
     <Compile Include="Assets\S08\S08_BuiltinCompare.cs" />
     <Compile Include="Assets\S03_Abs\S03_CustomPolygonMesh_Square.cs" />
     <Compile Include="Assets\S10\S10_LocalToWorldMatrixPrinter.cs" />
     <Compile Include="Assets\S06\S06_ImmediateModeTriangle_Finish.cs" />
     <Compile Include="Assets\S05\S05_MyMeshRenderer.cs" />
+    <Compile Include="Assets\S11\S11_VirtualCamera_Finish.cs" />
     <Compile Include="Assets\S08\DiamondMesh.cs" />
     <Compile Include="Assets\S08\S08_DirectTransform.cs" />
     <Compile Include="Assets\S10\DiamondMesh_Rewinded.cs" />
