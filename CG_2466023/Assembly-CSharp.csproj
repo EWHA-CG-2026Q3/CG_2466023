@@ -67,6 +67,7 @@
     <Compile Include="Assets\S10\DiamondMesh_Rewinded.cs" />
     <Compile Include="Assets\S09\S09_Shear.cs" />
     <Compile Include="Assets\S03\S03_CustomPolygonMesh_Hexagon.cs" />
+    <Compile Include="Assets\S12\S12_VirtualCamera_Finish.cs" />
     <Compile Include="Assets\S06\S06_SoftwareRasterizer_Finish.cs" />
     <Compile Include="Assets\S07\S07_Clipping.cs" />
     <Compile Include="Assets\S07\S07_DepthTest_DepthVisualizer.cs" />
