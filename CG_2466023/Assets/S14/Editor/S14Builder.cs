@@ -251,7 +251,7 @@ public static class S14Builder
         {
             string pdir = Path.GetFullPath(Path.Combine(Application.dataPath, "..", "Screenshots"));
             Directory.CreateDirectory(pdir);
-            string pfile = Path.Combine(pdir, "S14_ShotCamera_" + DateTime.Now.ToString("yyyyMMdd_HHmmss") + ".png");
+            string pfile = Path.Combine(pdir, SceneManager.GetActiveScene().name + "_ShotCamera_" + DateTime.Now.ToString("yyyyMMdd_HHmmss") + ".png");
             bool wasEnabled = cam.enabled;
             cam.enabled = true;
             int frames = 0;
@@ -290,7 +290,7 @@ public static class S14Builder
 
         string dir = Path.GetFullPath(Path.Combine(Application.dataPath, "..", "Screenshots"));
         Directory.CreateDirectory(dir);
-        string file = Path.Combine(dir, "S14_ShotCamera_" + DateTime.Now.ToString("yyyyMMdd_HHmmss") + ".png");
+        string file = Path.Combine(dir, SceneManager.GetActiveScene().name + "_ShotCamera_" + DateTime.Now.ToString("yyyyMMdd_HHmmss") + ".png");
         File.WriteAllBytes(file, tex.EncodeToPNG());
         UnityEngine.Object.DestroyImmediate(tex);
         rt.Release();
