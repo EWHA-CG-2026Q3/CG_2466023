@@ -66,16 +66,22 @@
     <Compile Include="Assets\S08\S08_DirectTransform.cs" />
     <Compile Include="Assets\S10\DiamondMesh_Rewinded.cs" />
     <Compile Include="Assets\S09\S09_Shear.cs" />
+    <Compile Include="Assets\Midterm_RestSpace\RS_SwingFrame.cs" />
     <Compile Include="Assets\S03\S03_CustomPolygonMesh_Hexagon.cs" />
+    <Compile Include="Assets\Midterm_RestSpace\RS_GroundDisc.cs" />
     <Compile Include="Assets\S12\S12_VirtualCamera_Finish.cs" />
     <Compile Include="Assets\S06\S06_SoftwareRasterizer_Finish.cs" />
+    <Compile Include="Assets\Midterm_RestSpace\RS_GrassField.cs" />
+    <Compile Include="Assets\Midterm_RestSpace\RS_MeshBuilder.cs" />
     <Compile Include="Assets\S07\S07_Clipping.cs" />
     <Compile Include="Assets\S07\S07_DepthTest_DepthVisualizer.cs" />
     <Compile Include="Assets\S07\S07_DepthTest2.cs" />
+    <Compile Include="Assets\Midterm_RestSpace\RS_SwingBench.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TutorialInfo\StyleSheets\ReadmeEditor.uss" />
     <None Include="Assets\S06\S06_OpenGL_Shader.shader" />
+    <None Include="Assets\Midterm_RestSpace\RS_Grass.shader" />
     <None Include="Assets\TutorialInfo\StyleSheets\ReadmeEditorLight.uss" />
     <None Include="Assets\TutorialInfo\StyleSheets\ReadmeEditorDark.uss" />
   </ItemGroup>
